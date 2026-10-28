@@ -1,0 +1,9 @@
+# Ignore temporary Excel lock files
+~$*.xlsx
+~$*.xls
+
+# Ignore local runtime SQLite databases
+storage/*.sqlite
+storage/*.sqlite-journal
+storage/*.sqlite-wal
+storage/*.sqlite-shm

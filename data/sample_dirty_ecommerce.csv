@@ -1,0 +1,22 @@
+order_id,order_date,customer_id,customer_name,email,city,province,segment,product_id,product_name,category,brand,qty,unit_price,discount,payment_method,status
+ORD-2026-1001,2026-10-01,CUST-01,  budi santoso ,BUDI.SANTOSO@GMAIL.COM,jakarta selatan,DKI Jakarta,Retail,PRD-101,Mechanical Keyboard RGB,elektronik,KeyTech,1,"Rp 850.000","Rp 50.000",QRIS,Completed
+ORD-2026-1001,2026-10-01,CUST-01,  budi santoso ,BUDI.SANTOSO@GMAIL.COM,jakarta selatan,DKI Jakarta,Retail,PRD-101,Mechanical Keyboard RGB,elektronik,KeyTech,1,"Rp 850.000","Rp 50.000",QRIS,Completed
+ORD-2026-1002,02/10/2026,CUST-02,SITI AMINAH,siti.aminah@yahoo.com,bandung,jawa barat,Corporate,PRD-102,Monitor IPS 27 Inch 4K,ELEKTRONIK,ViewMax,2,"IDR 4,200,000",0,Bank Transfer,Completed
+ORD-2026-1003,03-Okt-2026,CUST-03,andi wijaya,,SURABAYA,Jawa Timur,Retail,PRD-103,Kursi Kerja Ergonomis,furniture,ErgoSit,1,"Rp. 2.150.000,-","Rp 150.000",Credit Card,Completed
+ORD-2026-1004,2026/10/04 14:22,CUST-04,dewi lestari,dewi.l@outlook.com,,DI Yogyakarta,Home Office,PRD-104,Mouse Wireless Silent,Elektronik,LogiPro,3,275000,,E-Wallet,Completed
+ORD-2026-1005,2026-10-05,CUST-05,Rizky Pratama,rizky.p@company.co.id,semarang,Jawa Tengah,Corporate,PRD-105,Standing Desk Elektrik,FURNITURE,ErgoSit,2,"Rp 5.500.000","IDR 500,000",Bank Transfer,Completed
+ORD-2026-1006,06/10/2026,CUST-06,fajar nugroho,fajar@gmail.com,medan,sumatera utara,Retail,PRD-106,USB-C Hub 8-in-1,aksesoris,ConnectX,-1,"Rp 450.000",0,QRIS,Cancelled
+ORD-2026-1007,07-Okt-2026,CUST-07, Maya Putri ,MAYA.PUTRI@GMAIL.COM,denpasar,Bali,Home Office,PRD-107,Webcam Full HD 1080p,elektronik,CamClear,2,"Rp 620.000","Rp 20.000",E-Wallet,Completed
+ORD-2026-1008,2026-10-08,CUST-02,siti aminah,SITI.AMINAH@YAHOO.COM,Bandung,Jawa Barat,Corporate,PRD-101,Mechanical Keyboard RGB,Elektronik,KeyTech,5,"Rp 850.000","Rp 250.000",Bank Transfer,Completed
+ORD-2026-1009,09/10/2026,CUST-08,hendra gunawan,hendra.g@mail.com,makassar,Sulawesi Selatan,Retail,PRD-108,SSD NVMe 1TB Gen4,penyimpanan,FastDisk,1,"IDR 1,350,000",,Virtual Account,Completed
+ORD-2026-1010,2026-10-09,CUST-08,hendra gunawan,hendra.g@mail.com,makassar,Sulawesi Selatan,Retail,PRD-108,SSD NVMe 1TB Gen4,penyimpanan,FastDisk,1,"IDR 1,350,000",,Virtual Account,Completed
+ORD-2026-1011,10-Okt-2026,CUST-09,Nadia Kusuma,,malang,jawa timur,Home Office,PRD-109,Lampu Meja LED Pintar,aksesoris,BrightHome,2,"Rp. 320.000,-","Rp 20.000",QRIS,Completed
+ORD-2026-1012,2026/10/11 09:15,CUST-10,Dimas Aditya,dimas.a@gmail.com,jakarta pusat,dki jakarta,Corporate,PRD-102,Monitor IPS 27 Inch 4K,elektronik,ViewMax,3,"Rp 4.200.000","Rp 600.000",Bank Transfer,Completed
+,2026-10-12,CUST-11,Tanpa Order ID,anon@mail.com,bogor,Jawa Barat,Retail,PRD-104,Mouse Wireless Silent,Elektronik,LogiPro,1,"Rp 275.000",0,QRIS,Pending
+ORD-2026-1014,13/10/2026,CUST-12,Putri Wulandari,putri.w@gmail.com,bekasi,Jawa Barat,Retail,PRD-110,Headset Noise Cancelling,audio,SoundPure,1,"Rp 1.750.000","Rp 100.000",Credit Card,Completed
+ORD-2026-1015,14-Okt-2026,CUST-01,Budi Santoso,budi.santoso@gmail.com,Jakarta Selatan,DKI Jakarta,Retail,PRD-106,USB-C Hub 8-in-1,Aksesoris,ConnectX,2,"IDR 450,000",0,QRIS,Completed
+ORD-2026-1016,2026-10-15,CUST-13,Agus Setiawan,agus.s@yahoo.com,palembang,Sumatera Selatan,Home Office,PRD-103,Kursi Kerja Ergonomis,FURNITURE,ErgoSit,1,"Rp 0",0,Virtual Account,Failed
+ORD-2026-1017,16/10/2026,CUST-14,Linda Permata,linda.p@gmail.com,tangerang,Banten,Corporate,PRD-105,Standing Desk Elektrik,Furniture,ErgoSit,1,"Rp 5.500.000","Rp 250.000",Bank Transfer,Completed
+ORD-2026-1018,17-Okt-2026,CUST-15,Reza Rahadian,reza.r@gmail.com,surabaya,Jawa Timur,Retail,PRD-108,SSD NVMe 1TB Gen4,Penyimpanan,FastDisk,2,"Rp. 1.350.000,-","Rp 50.000",E-Wallet,Completed
+ORD-2026-1019,2026-10-18,CUST-16,Kartika Sari,,balikpapan,Kalimantan Timur,Home Office,PRD-110,Headset Noise Cancelling,AUDIO,SoundPure,1,"IDR 1,750,000",0,QRIS,Completed
+ORD-2026-1020,19/10/2026,CUST-05,rizky pratama,RIZKY.P@COMPANY.CO.ID,Semarang,Jawa Tengah,Corporate,PRD-102,Monitor IPS 27 Inch 4K,Elektronik,ViewMax,2,"Rp 4.200.000","Rp 400.000",Bank Transfer,Completed
